@@ -51,7 +51,7 @@ The goal of this project is to build a machine learning model that can predict h
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/SoumyMittal/House-Price-Prediction
 2. Install dependencies:
    ```bash
    pip install numpy pandas matplotlib seaborn scikit-learn
